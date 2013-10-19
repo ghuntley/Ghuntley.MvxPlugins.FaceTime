@@ -1,0 +1,3 @@
+[submodule "contrib/MvvmCross-Binaries"]
+	path = contrib/MvvmCross-Binaries
+	url = git@github.com:MvvmCross/MvvmCross-Binaries.git
